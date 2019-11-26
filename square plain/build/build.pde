@@ -1,8 +1,7 @@
 //**********************************************************************
-// Program name      : .pde
 // Author            : Bryan Costanza (GitHub: TravelByRocket)
 // Date created      : 20191114
-// Purpose           : Automate the process of creating living folds, avoiding complexities of creating patterns with graphic design applications like Illustrator
+// Purpose           : Create custom living hinges by defining an area and pattern; modify spacing with the keyboard, define shapes in the code
 //**********************************************************************
 
 import processing.pdf.*;
