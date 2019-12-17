@@ -25,7 +25,7 @@ The cut pattern is saved to to a `/saved` directory by pressing the 's' button o
 ### Download and Installation
 * Once you clone or download this repository and install the ControlP5 library, you will have everything you need to run this software.
 
-##Development Notes
+## Development Notes
 
 ### Open Issues
 * The software currently only imports one SVG file or one of the pattern options. The import shows black and filled instead of with a red stoke but it does work otherwise. The import also looks notably bitrated on the canvas but the output is perfectly vector.
