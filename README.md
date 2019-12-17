@@ -34,13 +34,16 @@ The lines are drawn with `strokWeight(0)` for one frame after the 's' button is 
 ### Open Issues
 * The software currently only imports one SVG file or one of the pattern options. The import shows black and filled instead of with a red stoke but it does work otherwise. The import also looks notably bitrated on the canvas but the output is perfectly vector.
 * Extreme parameter combinations will crash the software, likely from a divide by 0 error. This does not happen in a regular range of combinations.
+
 ### Future Development
+
 * Publish the tool as a Processing plugin. Ensure that the design tool and the plugin functionality are completely separated. Further refine the tool and make it an included example. Have the tool output a function call (or similar) that can be used by itself in other sketches in the case that designers 
 * Find and display a measure of the predicted ease of expanding the patterns when used with cardstock. The original reason for developing this software was to expand cardstock into interesting light manipulation pieces. It is difficult for now to know when the cut paper would be either too fragile or too inflexible to be expanded.
 * Allow specifying absolute row and column counts as well as spacing ratios for scale-independent, highly controllable designs. This can be done outside of the software without too much additional work, but it would be nice to take this off the designers' hands.
 * Remove old builds, clean up comments, classes, and organization
 * Ensure clean PDF output for easier manipulation after saving the output, like editing in Rhino. Output already uses safe colors if used directly in a laser cutting application. At least making sure that the geometry values that save with the PDF (if turned on) are well outside the pattern boundary.
 * Add a button for saving the output to PDF.
+* Add some kind of estimate or proxy for cut time
 
 ### Comparable Tools
 * [Grasshopper](https://www.rhino3d.com/6/new/grasshopper) for Rhino
