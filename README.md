@@ -7,7 +7,7 @@ I have more discussion on the design process and use of the tool on my website: 
 
 ### Pattern Spacing
 
-The cut lines are all placed within a "cell" and each cell has horizontal padding and a vertical padding. Alternating columns are offset vertically by one half of a row height.
+The cut lines are all placed within a "cell" and each cell has horizontal padding and a vertical padding. Alternating columns are offset vertically by one half of a row height. There are on-screen controls and keyboard shortcuts for the following parameters: `cellWidth`, `cellHeight`, `cellPaddingH` (horizontal), `cellPaddingV` (vertical), `cutShape`.
 
 ### Custon Patterns
 
