@@ -16,6 +16,10 @@ The software has a few basic, if somewhat arbitrary, patterns hard-coded as cut 
 ### Saving and Display Options
 The cut pattern is saved to to a `/saved` directory by pressing the 's' button on the keyboard. Other keyboard shortcuts can be toggled by pressing 'h' and pattern spacing information is toggled with 'i'.
 
+### Line Formatting
+
+The lines are drawn with `strokWeight(0)` for one frame after the 's' button is pressed to make them "hairline" and seen as vector cuts by laser cutter software. All cut strokes are drawn with the default RGB full red, #FF0000 or (250,0,0).
+
 ## Usage
 
 ### Plugins Required
