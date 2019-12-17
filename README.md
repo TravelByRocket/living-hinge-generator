@@ -3,6 +3,8 @@ This tool was developed to rapidly design living hinge patterns. It is intended 
 
 [![Tool screen capture link to video](/documentationfiles/screencap.png)](https://youtu.be/GCjJpf8orwI "Screen capture link to video")
 
+*click the image for a video of the tool in use*
+
 I have more discussion on the design process and use of the tool on my website: https://bryancostanza.com/#/living-hinge-design-tool/.
 
 ## Concept
