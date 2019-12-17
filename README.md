@@ -1,7 +1,7 @@
 # Living Hinge Generation Tool
 This tool was developed to rapidly design living hinge patterns. It is intended to be a simple but helpful tool in a way that I have not seen done elsewhere. There is a user interface that allows for selecting different patterns, cell sizes, and cell padding.
 
-[[Tool screen capture link to video](/documentationfiles/screencap.png)](https://youtu.be/GCjJpf8orwI "Screen capture link to video")
+[![Tool screen capture link to video](/documentationfiles/screencap.png)](https://youtu.be/GCjJpf8orwI "Screen capture link to video")
 
 I have more discussion on the design process and use of the tool on my website: https://bryancostanza.com/#/living-hinge-design-tool/.
 
