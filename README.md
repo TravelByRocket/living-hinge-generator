@@ -1,7 +1,7 @@
 # Living Hinge Generation Tool
 This tool was developed to rapidly design living hinge patterns. It is intended to be a simple but helpful tool in a way that I have not seen done elsewhere. There is a user interface that allows for selecting different patterns, cell sizes, and cell padding.
 
-I have more discussion on the design process and use of the tool on my website: https://bryancostanza.com/#/living-hinge-design-tool/
+I have more discussion on the design process and use of the tool on my website: https://bryancostanza.com/#/living-hinge-design-tool/.
 
 ## Concept
 
@@ -23,7 +23,7 @@ The cut pattern is saved to to a `/saved` directory by pressing the 's' button o
 * This software also uses Processing's PDF library, but this is already included with your Processing installation and imported automatically.
 
 ### Download and Installation
-* Once you clone or download this repository and install the ControlP5 library, you will have everything you need to run this software. 
+* Once you clone or download this repository and install the ControlP5 library, you will have everything you need to run this software.
 
 ##Development Notes
 
